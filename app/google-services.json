@@ -1,0 +1,231 @@
+{
+  "project_info": {
+    "project_number": "382100933076",
+    "firebase_url": "https://taxi-booking-69de8.firebaseio.com",
+    "project_id": "taxi-booking-69de8",
+    "storage_bucket": "taxi-booking-69de8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382100933076:android:042a0c7a3bc54137",
+        "android_client_info": {
+          "package_name": "com.example.nisar.firebaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382100933076-jlor20t3fb07ksv4c2tm5kv6kk6309od.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nisar.firebaseexample",
+            "certificate_hash": "833f779889dfa1fbeb53b00b95d26b635710df24"
+          }
+        },
+        {
+          "client_id": "382100933076-ne8aoe3sfc80fb1n9pju57l478ujr1os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2NfmvtHrAT3Ui13x7BjxWdBZZ5XXcCYk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382100933076-ne8aoe3sfc80fb1n9pju57l478ujr1os.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382100933076:android:e5b109649a978936",
+        "android_client_info": {
+          "package_name": "com.example.nisar.loginsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382100933076-g3sasv9ehmevleq44jhqargd7irlf3oq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nisar.loginsignup",
+            "certificate_hash": "833f779889dfa1fbeb53b00b95d26b635710df24"
+          }
+        },
+        {
+          "client_id": "382100933076-ne8aoe3sfc80fb1n9pju57l478ujr1os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2NfmvtHrAT3Ui13x7BjxWdBZZ5XXcCYk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382100933076-ne8aoe3sfc80fb1n9pju57l478ujr1os.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382100933076:android:a30e7979220437be",
+        "android_client_info": {
+          "package_name": "com.example.nisar.bookinggammaversion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382100933076-j9nipmjlc3cpborlo3gq97lsvk58vv5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nisar.bookinggammaversion",
+            "certificate_hash": "833f779889dfa1fbeb53b00b95d26b635710df24"
+          }
+        },
+        {
+          "client_id": "382100933076-ne8aoe3sfc80fb1n9pju57l478ujr1os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2NfmvtHrAT3Ui13x7BjxWdBZZ5XXcCYk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382100933076-ne8aoe3sfc80fb1n9pju57l478ujr1os.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382100933076:android:a9f8b7354fa73fb5",
+        "android_client_info": {
+          "package_name": "com.example.nisar.bookit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382100933076-2s78djj1mati7cbt2d14p591rtvso2am.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nisar.bookit",
+            "certificate_hash": "833f779889dfa1fbeb53b00b95d26b635710df24"
+          }
+        },
+        {
+          "client_id": "382100933076-ne8aoe3sfc80fb1n9pju57l478ujr1os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2NfmvtHrAT3Ui13x7BjxWdBZZ5XXcCYk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382100933076-ne8aoe3sfc80fb1n9pju57l478ujr1os.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382100933076:android:2af51c01e461c011",
+        "android_client_info": {
+          "package_name": "com.example.nisar.ubookit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382100933076-b084ksllcjkodtkq8gnn80pbmf05bie8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nisar.ubookit",
+            "certificate_hash": "833f779889dfa1fbeb53b00b95d26b635710df24"
+          }
+        },
+        {
+          "client_id": "382100933076-ne8aoe3sfc80fb1n9pju57l478ujr1os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2NfmvtHrAT3Ui13x7BjxWdBZZ5XXcCYk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382100933076-ne8aoe3sfc80fb1n9pju57l478ujr1os.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
